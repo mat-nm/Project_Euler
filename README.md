@@ -9,10 +9,11 @@ Ces solutions ont été conçues pour résoudre des problèmes algorithmiques so
 
 La majorité des codes est écrite en C et compile correctement avec **gcc 15.2.0**:
 ```sh
-gcc -O2 -g -Wall -std=gnu11 pb1.c -o pb
+gcc -O2 -g -Wall -std=gnu11 pb1.c -o pb -lm
 ```
 
 Le reste s'exécute avec **python 3**:
 ```sh
 python3 pb20.py
 ```
+_Note: Certains programmes nécessitent des inputs ; ceux-ci n'ont pas été inclus ici, mais ils sont accessibles sur le site du [Project Euler](https://projecteuler.net/archives)._
