@@ -1,4 +1,4 @@
-# Entraînement à la programmation competitive
+# Entraînement à la programmation compétitive
 Ce dépôt rassemble certaines de mes solutions aux problèmes du site [Project Euler](https://projecteuler.net/archives), écrites dans le cadre d'un **entraînement à la programmation compétitive**.
 
 ## Nature du code
